@@ -100,8 +100,10 @@ public class Mainmenu : MonoBehaviour
       female_2.SetActive(true);
       Costume_Male.SetActive(false);
       Costume_Female.SetActive(false);
+      eggplant_sprite_new_1.SetActive(false);
       eggplant_sprite_new_2.SetActive(false);
       eggplant_sprite_new_3.SetActive(false);
+      priest_model_Sprite_Stage1.SetActive(false);
       priest_model_Sprite_Stage2.SetActive(false);
       priest_model_Sprite_Stage3.SetActive(false);
     }
